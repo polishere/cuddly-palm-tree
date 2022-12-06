@@ -1,1 +1,3 @@
 https://www.w3schools.com/sql/trysql.asp - to testowania zapytań SQL
+
+12345

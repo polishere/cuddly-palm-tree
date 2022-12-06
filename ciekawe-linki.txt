@@ -1,1 +1,2 @@
+https://www.w3schools.com/sql/default.asp - tutorial SQL
 https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc - to testowania zapytań SQL
